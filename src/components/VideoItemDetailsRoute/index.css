@@ -1,0 +1,11 @@
+.video-container {
+  min-width: 79vw;
+  min-height: 55vh;
+}
+
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
